@@ -1,7 +1,7 @@
 # Pyramid-Academy-Guess-The-Number
 ![image](https://user-images.githubusercontent.com/61062296/174879460-50c5002e-ddbc-4615-8ee1-d28939432aad.png)
 
-The computer will "think" of a secret number from 1 to 20 and ask the user to guess it. After each guess, the computer will tell the user whether the number is too high or too low. The user wins if theycan guwss the number within six tries.
+The computer will "think" of a secret number from 1 to 20 and ask the user to guess it. After each guess, the computer will tell the user whether the number is too high or too low. The user wins if they can guess the number within six tries.
 
 Program Example:
 
